@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+}
+
+.menu-navegation{
+    float: left;
+    margin-right: 50px;
+}
+
+
+.menu a{
+    text-decoration: none;
+    padding: 12px;
+    display: block;
+    color: #000;
+    
+}
+
+li{
+    margin-bottom: 12px;
+    border: 1px solid #000;
+    list-style: none;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-left: 75px;
+    font-size: 15px;
+}
+
+h2{
+    margin-left: 320px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+p{
+    margin-left: 320px;
+}
